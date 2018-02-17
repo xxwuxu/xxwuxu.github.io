@@ -2,7 +2,7 @@
 html {
 	background-color: #00A064;
 	font-family: Helvetica, Arial, sans-serif;
-	font-size: 16px;
+	font-size: 10px;
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 
 p,li {
   color: black;
-  font-size: 1em;
+  font-size: 1.4em;
   width: 800px;
   line-height: 2;
   text-transform: capitalize;
@@ -27,7 +27,7 @@ h1 {
 	padding: 20px 0;
 	color: #0A29C6;
 	font-family: Arial;
-	font-size: 20px;
+	font-size: 2em;
 	text-align: center;
 	text-shadow: 1px 1px 1px black;
 	text-decoration: underline;
@@ -39,7 +39,7 @@ h2 {
 	margin: 0;
 	padding: 20px 0;
 	color: #055D13;
-	font-size: 20px;
+	font-size: 1.6em;
 	text-align: left;
 	text-shadow: 0px 0px 0px black;
 	text-decoration: line-through;
