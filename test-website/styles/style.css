@@ -17,7 +17,6 @@ body {
 p,li {
   color: black;
   font-size: 1.4em;
-  width: 750px;
   line-height: 2;
   text-transform: capitalize;
 }
