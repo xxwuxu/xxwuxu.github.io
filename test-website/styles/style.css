@@ -18,7 +18,6 @@ p,li {
   color: black;
   font-size: 1.4em;
   line-height: 2;
-  text-transform: capitalize;
 }
 
 h1 {
@@ -30,6 +29,7 @@ h1 {
 	text-align: center;
 	text-shadow: 1px 1px 1px black;
 	text-decoration: underline;
+	text-transform: capitalize;
 	font-style: bold;
 	font-weight: 80;
 }
@@ -42,6 +42,7 @@ h2 {
 	text-align: left;
 	text-shadow: 0px 0px 0px black;
 	text-decoration: line-through;
+	text-transform: capitalize;
 	font-style: bold;
 	font-weight: 80;
 	
