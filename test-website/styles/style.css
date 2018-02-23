@@ -1,14 +1,15 @@
 
 html {
-	background: #00A064 url(/images/Horse.png) 10px 10px repeat-x fixed;
+	background: #4F2F4C;
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 10px;
+	text-color:#FFFFFF;
 }
 
 body {
 	width: 800px;
 	margin: 0 auto;
-	background-color: #E1DAE1;
+	background-color: #889100;
 	padding: 0 20px 20px 20px;
 	border: 5px solid back;
 }
